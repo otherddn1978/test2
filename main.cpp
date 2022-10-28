@@ -1,6 +1,10 @@
 #include <iostream>
 #include "lib1.h"
 
+
+
+
+
 int main(int argc, char** argv) {
     int cc= 20;
     std::cout << "Hello, world!\n";
